@@ -9,7 +9,6 @@ Uso:
 """
 import argparse
 import logging
-import re
 import sys
 from pathlib import Path
 
